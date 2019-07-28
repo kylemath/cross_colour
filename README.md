@@ -33,3 +33,10 @@ Variables:
 -Width
 -Saturation increase in the code
 
+----
+Random pixel colourization
+
+It is good to consider other patterns and densities of colour that can lead to the effect, here is an example you can run with 'rand_colour', and can change the number and size of the random dots
+
+Output:
+![Rand Example ouput](rand_example.png)
