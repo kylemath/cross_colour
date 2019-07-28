@@ -2,7 +2,7 @@
 Overlay saturated crosshatch grid onto grayscale image for illusory colours
 
 Input:
-![Example Input](Alim_Kham.jpg)
+![Example Input](Alim_Khan.jpg)
 
 Output:
 ![Example Output](untitled.png)
