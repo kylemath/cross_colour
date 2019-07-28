@@ -13,8 +13,8 @@ sat_image(sat_image > 1) = 1;
 sat_image = ceil(hsv2rgb(sat_image)*256);
 
 
-grid_size = 100;
-grid_width = 2;
+grid_size = 50;
+grid_width = 5;
 
 vert_size = size(im,1);
 horz_size = size(im,2);
